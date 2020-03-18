@@ -1,0 +1,9 @@
+t This is a very simple sentence. So I guess I will write very random stuff.
+n
+d 1000
+t Hmmmmmm, this doesn't quite look right. There should be around several hundred letters shouldn't there?
+n
+d 1000
+t But theres more! It is me, dio! Your worst nightmare! Hahahahahahahahahahahahahahahahahahahahahahahahah!
+n
+d 1000
